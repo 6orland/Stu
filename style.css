@@ -1,0 +1,9 @@
+*{
+    box-sizing: border-box;  
+    display: flex;
+    background-color: green;
+}
+
+.section {
+    background-color: blue;
+}
